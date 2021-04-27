@@ -29,8 +29,8 @@ Soy desarrolladora fullstack y estoy entusiasmada en crear productos digitales q
 
 <h2 align="center"> Contáctame 👥 </h2>
 <p align="center">
-<a href="https://instagram.com/rutvik_dev.desg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rutvik_dev.desg" height="30" width="40" /></a>
-<a href="https://www.behance.net/rutvikj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="rutvikj" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rutvik_dev.desg" height="30" width="40" /></a>
+<a href="https://www.behance.net/ichbinpatsy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="rutvikj" height="30" width="40" /></a>
 </p>
 
 <!--
