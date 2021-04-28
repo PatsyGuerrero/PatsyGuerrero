@@ -1,7 +1,7 @@
 # Patsy Guerrero
 
  [![Linkedin Badge](https://img.shields.io/badge/-patsyguerrero-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patsy-guerrero/)](https://www.linkedin.com/in/patsy-guerrero/)
-[![Gmail Badge](https://img.shields.io/badge/-patsy.guerrero95@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:patsy.guerrero95@gmail.com)](mailto:patsy.guerrero95@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-patsyguerreroadrian@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:patsyguerreroadrian@gmail.com)](mailto:patsyguerreroadrian@gmail.com)
 
 ## Sobre mi 👋,           
 Soy desarrolladora fullstack y estoy entusiasmada en crear productos digitales que aporten valor a las sociedades. Soy fiel creyente que la tecnología ayuda a mejorar la calidad de vida de las personas. 
